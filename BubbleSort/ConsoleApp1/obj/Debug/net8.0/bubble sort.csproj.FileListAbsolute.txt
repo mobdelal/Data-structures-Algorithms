@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\GitHub\Data-structures-Algorithms\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\bubble sort.exe
+C:\Users\Administrator\Documents\GitHub\Data-structures-Algorithms\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\bubble sort.deps.json
+C:\Users\Administrator\Documents\GitHub\Data-structures-Algorithms\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\bubble sort.runtimeconfig.json
+C:\Users\Administrator\Documents\GitHub\Data-structures-Algorithms\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\bubble sort.dll
+C:\Users\Administrator\Documents\GitHub\Data-structures-Algorithms\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\bubble sort.pdb
+C:\Users\Administrator\Documents\GitHub\Data-structures-Algorithms\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\bubble sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\GitHub\Data-structures-Algorithms\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\bubble sort.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\GitHub\Data-structures-Algorithms\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\bubble sort.AssemblyInfo.cs
+C:\Users\Administrator\Documents\GitHub\Data-structures-Algorithms\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\bubble sort.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\GitHub\Data-structures-Algorithms\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\bubble sort.dll
+C:\Users\Administrator\Documents\GitHub\Data-structures-Algorithms\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\bubble sort.dll
+C:\Users\Administrator\Documents\GitHub\Data-structures-Algorithms\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\bubble sort.pdb
+C:\Users\Administrator\Documents\GitHub\Data-structures-Algorithms\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\bubble sort.genruntimeconfig.cache
+C:\Users\Administrator\Documents\GitHub\Data-structures-Algorithms\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\bubble sort.dll
