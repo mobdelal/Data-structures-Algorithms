@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\Data-structures-Algorithms\\BubbleSort\\ConsoleApp1\\bubble sort.csproj",
-      "projectName": "bubble sort",
-      "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\Data-structures-Algorithms\\BubbleSort\\ConsoleApp1\\bubble sort.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Documents\\GitHub\\Data-structures-Algorithms\\Sorting Algorithms\\SelectionSort\\SelectionSort.csproj",
+      "projectName": "SelectionSort",
+      "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\Data-structures-Algorithms\\Sorting Algorithms\\SelectionSort\\SelectionSort.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\Data-structures-Algorithms\\BubbleSort\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\Data-structures-Algorithms\\Sorting Algorithms\\SelectionSort\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
