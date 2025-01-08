@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Inserion Sort")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+789afafda19bc011dd5fab02f7bfb0496253b8da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+277a2c9495bd9fe80a9deb979cdba7f6dc059f55")]
 [assembly: System.Reflection.AssemblyProductAttribute("Inserion Sort")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Inserion Sort")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
